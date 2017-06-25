@@ -91,7 +91,7 @@ using SlimGis.MapKit.Geometries;
 [Route("{z}/{x}/{y}")]
 public IActionResult GetImage(int z, int x, int y)
 {
-    ShapefileLayer countriesLayer = new ShapefileLayer(@"AppData\cntry02-900913.shp");
+    ShapefileLayer countriesLayer = new ShapefileLayer(@"AppData\countries-900913.shp");
     countriesLayer.Styles.Add(new FillStyle(GeoColor.FromHtml("#AAFFDF3E"), GeoColors.White));
 
     MapModel mapModel = new MapModel(GeoUnit.Meter);
