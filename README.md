@@ -150,8 +150,9 @@ Congratulations! Our first ASP.NET Core project is created. Double click the htm
 
 ![quickstart-webapi-dnc](http://p1.bpimg.com/567571/20210147ce952e71.png)
 
-## Run on Linux
-Working on it...
+## Related Resources
+- [Source code](https://github.com/SlimGIS/Quickstart-WebAPI-DotNetCore)
+- [Getting started on macOS and Linux](https://slimgis.com/developers/getting-started-webapi-dnc-multi)
+- [Features overview](https://slimgis.com/developers/features-overview-webapi-dnc)
+- [API Reference](https://slimgis.com/developers/api-ref-webapi-dnc)
 
-## Run on macOS
-Working on it...
