@@ -1,5 +1,8 @@
-# Quickstart guide for building a Web Map APP with ASP.NET Core
-We are excited to announce that our WebAPI component supports ASP.NET Core. In this thread we will introduce you to create a WebAPI application with ASP.NET Core. To make some difference, this time, we are going to use VS Code instead of Visual Studio which is more lighter and faster than Visual Studio IDE. On the other hand, we will show you how compatible our component is.
+Keywords:   web map, .net core map, asp net core, linux map
+
+# Getting Started Guide for building a Web Map with ASP.NET Core
+
+This is the beginners guide to walk you through the steps to build a web gis application with Visual Studio Code on Windows. With the power of ASP.NET Core WebAPI, it allows to host the map services on linux and macOS.
 
 Before starting, we need to prepare the environment. Please refer the following list.
 > - [.NET Core SDK](https://www.microsoft.com/net/download/core)
